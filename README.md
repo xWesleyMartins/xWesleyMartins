@@ -53,13 +53,21 @@
       alt="Jest"/>
   </div>
   
-  ##
+##
   
-  <div>
-    <p>Stats</p>
-    <a href="https://github.com/xWesleyMartins">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xWesleyMartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xWesleyMartins&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
-  </div>
+<div>
+<p>Stats</p>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=xWesleyMartins&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=xWesleyMartins&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xWesleyMartins&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+##
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=xWesleyMartins&icon=5&color=8)](https://visitcount.itsvg.in)
+
 </body>
