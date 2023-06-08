@@ -68,7 +68,7 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=xWesleyMartins&icon=5&color=8)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=xWesleyMartins&label=Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=xWesleyMartins&icon=5&color=8)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=xWesleyMartins&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 </body>
